@@ -1,0 +1,12 @@
+*.class
+*.ctxt
+*.bluej
+*.dia
+*.xml
+*.mf
+*.jar
+
+doc/
+/PizzeriaLuccini/nbproject/
+/PizzeriaLuccini/build/
+/PizzeriaLuccini/dist/
