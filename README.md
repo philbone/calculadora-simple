@@ -83,7 +83,7 @@ Ejemplo (módulo `%`):
 
 ## 📦 Dependencias
 
-Este proyecto utiliza la librería [terminal-menu](https://github.com/philbone/terminal-menu)  
+Este proyecto utiliza la librería [terminal-menu](https://github.com/philbone/java-terminal-menu)  
 para construir menús interactivos en consola.
 
 Para compilar y ejecutar, asegúrate de tener disponible el archivo `terminal-menu.jar` en tu classpath.
